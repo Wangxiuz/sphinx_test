@@ -4,5 +4,5 @@
 **test**
 
 
-![描述文字](../../source/_static/OIP-C.jpg)
+![描述文字](../source/_static/OIP-C.jpg)
 
