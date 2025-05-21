@@ -1,8 +1,8 @@
 # markdown图片测试
 
 
-**test**。
+**test**
 
 
-！[描述](../_static/OIP-C.jpg)
+![描述文字](../../source/_static/OIP-C.jpg)
 
