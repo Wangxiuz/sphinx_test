@@ -6,4 +6,4 @@
 
    test1/contents
    test2/contents
-   test3/input
+   test3/contents
