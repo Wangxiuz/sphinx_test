@@ -13,11 +13,3 @@ lab
    2025/index.rst
    about
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
